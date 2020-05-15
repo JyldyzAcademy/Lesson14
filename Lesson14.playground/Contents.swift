@@ -2,6 +2,7 @@ import UIKit
 
 // Aiperi new classes
 // creating classes
+// working with Alina and Nurga
 
 class Lashes {
     var volume: String
