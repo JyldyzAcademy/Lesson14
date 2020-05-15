@@ -1,5 +1,5 @@
 import UIKit
-
+// added changes
 
 // creating classes
 
@@ -17,7 +17,7 @@ class Person {
     }
 }
 
-// added changes
+
 class SimplePerson {
     let name : String
     
