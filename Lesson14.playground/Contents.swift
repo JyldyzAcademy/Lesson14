@@ -75,6 +75,10 @@ location1.x
 location1.y
 
 
+/// v classah esli my izmenim 1-example to izmenitsya i 2-i example bc
+/// v classah my skopirovali ne value a reference . t.e. link to example
+
+
 var person1 = Person(firstName: "Aslan", lastName: "Arapbaev")
 
 var person2 = person1 // copy of reference
@@ -83,10 +87,10 @@ person2.fullName
 person1.firstName
 person1.lastName
 
-person2.firstName = "Timur"
-person2.lastName = "Mone"
+person2.firstName = "Salamat"
+person2.lastName = "Kochkonbaeva"
 
-person1.firstName = "Nurga"
+person1.firstName = "Santa" // v classah esli my izmenim 1-example to izmenitsya i 2-i example bc v classah my skopirovali ne value a reference . t.e. link to example
 
 person1.firstName
 person1.lastName
